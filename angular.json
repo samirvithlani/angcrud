@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angcrud"
+    }
+  },
+  "defaultProject": "angcrud",
+  "cli": {
+    "analytics": false
+  }
 }
